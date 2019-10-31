@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ 
+ .awesome-login-form {
+    max-width: 40%;
+    margin: 0 auto;
+}
